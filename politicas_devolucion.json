@@ -1,0 +1,44 @@
+{
+  "accesorios": {
+    "admite_devolucion": true,
+    "dias_maximos": 30,
+    "requiere_empaque_original": true,
+    "acepta_cambio_si_defectuoso": true,
+    "motivo_no_devolucion": ""
+  },
+  "cuidado_personal": {
+    "admite_devolucion": false,
+    "dias_maximos": 0,
+    "requiere_empaque_original": true,
+    "acepta_cambio_si_defectuoso": true,
+    "motivo_no_devolucion": "Los productos de higiene o cuidado personal no pueden devolverse por seguridad sanitaria."
+  },
+  "textiles": {
+    "admite_devolucion": true,
+    "dias_maximos": 30,
+    "requiere_empaque_original": false,
+    "acepta_cambio_si_defectuoso": true,
+    "motivo_no_devolucion": ""
+  },
+  "limpieza": {
+    "admite_devolucion": true,
+    "dias_maximos": 15,
+    "requiere_empaque_original": true,
+    "acepta_cambio_si_defectuoso": true,
+    "motivo_no_devolucion": ""
+  },
+  "alimentos": {
+    "admite_devolucion": false,
+    "dias_maximos": 0,
+    "requiere_empaque_original": true,
+    "acepta_cambio_si_defectuoso": false,
+    "motivo_no_devolucion": "Los productos perecederos o de consumo alimentario no admiten devolución."
+  },
+  "hogar": {
+    "admite_devolucion": true,
+    "dias_maximos": 20,
+    "requiere_empaque_original": true,
+    "acepta_cambio_si_defectuoso": true,
+    "motivo_no_devolucion": ""
+  }
+}

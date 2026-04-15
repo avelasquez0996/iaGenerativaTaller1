@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Botella térmica de acero reciclado",
+    "categoria": "accesorios"
+  },
+  {
+    "nombre": "Cepillo dental de bambú",
+    "categoria": "cuidado_personal"
+  },
+  {
+    "nombre": "Kit de cubiertos reutilizables",
+    "categoria": "accesorios"
+  },
+  {
+    "nombre": "Shampoo sólido natural",
+    "categoria": "cuidado_personal"
+  },
+  {
+    "nombre": "Toallas de algodón orgánico",
+    "categoria": "textiles"
+  },
+  {
+    "nombre": "Bolsa compostable para residuos",
+    "categoria": "hogar"
+  },
+  {
+    "nombre": "Detergente ecológico concentrado",
+    "categoria": "limpieza"
+  },
+  {
+    "nombre": "Esponja vegetal biodegradable",
+    "categoria": "hogar"
+  },
+  {
+    "nombre": "Vela aromática de cera vegetal",
+    "categoria": "hogar"
+  },
+  {
+    "nombre": "Pañuelos reutilizables de tela",
+    "categoria": "textiles"
+  },
+  {
+    "nombre": "Kit de higiene personal ecológico",
+    "categoria": "cuidado_personal"
+  },
+  {
+    "nombre": "Snacks orgánicos de frutas deshidratadas",
+    "categoria": "alimentos"
+  }
+]
